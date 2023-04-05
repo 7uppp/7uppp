@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 
 **About me**: 
 
-- 🌱 I’m currently learning Full-stack Web knowledge(React,JS,HTML,CSS,Sass,ES6,Nodejs,Redux,Tailwind,MySQL,MongoDB,AWS)  
+- 🌱 I’m currently learning Full-stack Web knowledge(React,Js,TsHTML,CSS,Sass,ES6,Nodejs,Redux,Tailwind,MySQL,MongoDB,AWS)  
 
 - 😄 I love dogs and I have a lovely Japanese Spitz.  
 ![image](https://user-images.githubusercontent.com/56183401/229657993-8e46d697-ceff-455c-a2e5-1898d1d46ce3.png)
